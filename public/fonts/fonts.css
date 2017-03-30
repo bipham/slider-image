@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'parisineofficebold';
+    src: url('../fonts/parisineoffice-bold/parisineofficebold.eot');
+    src: url('../fonts/parisineoffice-bold/parisineofficebold.eot') format('embedded-opentype'),
+         url('../fonts/parisineoffice-bold/parisineofficebold.woff2') format('woff2'),
+         url('../fonts/parisineoffice-bold/parisineofficebold.woff') format('woff'),
+         url('../fonts/parisineoffice-bold/parisineofficebold.ttf') format('truetype'),
+         url('../fonts/parisineoffice-bold/parisineofficebold.svg#parisineofficebold') format('svg');
+}
+@font-face {
+    font-family: 'parisineofficeitalic';
+    src: url('../fonts/parisineoffice-italic/parisineofficeitalic.eot');
+    src: url('../fonts/parisineoffice-italic/parisineofficeitalic.eot') format('embedded-opentype'),
+         url('../fonts/parisineoffice-italic/parisineofficeitalic.woff2') format('woff2'),
+         url('../fonts/parisineoffice-italic/parisineofficeitalic.woff') format('woff'),
+         url('../fonts/parisineoffice-italic/parisineofficeitalic.ttf') format('truetype'),
+         url('../fonts/parisineoffice-italic/parisineofficeitalic.svg#parisineofficeitalic') format('svg');
+}
+@font-face {
+    font-family: 'parisineofficeregular';
+    src: url('../fonts/parisineoffice-regular/parisineofficeregular.eot');
+    src: url('../fonts/parisineoffice-regular/parisineofficeregular.eot') format('embedded-opentype'),
+         url('../fonts/parisineoffice-regular/parisineofficeregular.woff2') format('woff2'),
+         url('../fonts/parisineoffice-regular/parisineofficeregular.woff') format('woff'),
+         url('../fonts/parisineoffice-regular/parisineofficeregular.ttf') format('truetype'),
+         url('../fonts/parisineoffice-regular/parisineofficeregular.svg#parisineofficeregular') format('svg');
+}
